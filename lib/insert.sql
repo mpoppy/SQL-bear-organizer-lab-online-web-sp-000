@@ -1,2 +1,2 @@
 
-INSERT INTO bears()
+INSERT INTO bears(name) VALUES ("Mr. Chocolate")
